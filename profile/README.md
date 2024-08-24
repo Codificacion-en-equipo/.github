@@ -1,4 +1,5 @@
-## Roadmap 🧭
+<div id="top"></div>
+
 
 <!--
 
@@ -10,6 +11,19 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<!-- ROADMAP -->
+## Roadmap 🧭
+
+- [x] Add README
+- [x] Add roadmap link and image
+- [ ] Multi-language Support
+    - [ ] English
+    - [ ] Spanish
+- [ ] Add additional README information (like sections about objective, mission, etc.)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 [![image](https://github.com/user-attachments/assets/2e5b55f3-96a8-43fb-8e13-10b37f997336)
 ](https://roadmap.sh/r/adquirir--reforzar--dominar)
