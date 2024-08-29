@@ -14,6 +14,11 @@
 
 <!-- ROADMAP -->
 ## Roadmap 🧭
+[![Roadmap image](https://github.com/user-attachments/assets/26b377ae-e503-4818-bff6-c433a3674197)](https://roadmap.sh/r/adquirir--reforzar--dominar)
+<a href="https://roadmap.sh/r/adquirir--reforzar--dominar" target="_blank">Click here for interactive Roadmap.</a>
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
 
 - [x] Add README
 - [x] Add roadmap link and image
@@ -21,23 +26,12 @@
     - [ ] English
     - [ ] Spanish
 - [ ] Add additional README information (like sections about objective, mission, etc.)
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[![Roadmap image](https://github.com/user-attachments/assets/26b377ae-e503-4818-bff6-c433a3674197)](https://roadmap.sh/r/adquirir--reforzar--dominar)
-
-
-
-<a href="https://roadmap.sh/r/adquirir--reforzar--dominar" target="_blank">Click here for interactive Roadmap.</a>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+---
 
 <!-- CONTACT -->
 ## Contact
-
 Jonatandb - [@jonatandb](https://twitter.com/jonatandb) - jonatandb@gmail.com
-
 Project Link: [https://github.com/Codificacion-en-equipo](https://github.com/Codificacion-en-equipo)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
