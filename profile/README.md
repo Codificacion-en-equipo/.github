@@ -15,6 +15,7 @@
 <!-- ROADMAP -->
 ## Roadmap 🧭
 [![Roadmap image](https://github.com/user-attachments/assets/26b377ae-e503-4818-bff6-c433a3674197)](https://roadmap.sh/r/adquirir--reforzar--dominar)
+
 <a href="https://roadmap.sh/r/adquirir--reforzar--dominar" target="_blank">Click here for interactive Roadmap.</a>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
