@@ -17,9 +17,10 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 - Herramientas:
     - [Responsively.app: helps you test your sites for multiple devices](https://responsively.app/)
 
-### Backend
+### Generadores de Readme's:
 
  - [Readme.so: Generador online de Readme's](https://readme.so/es)
+ - [Simply Made Readme](https://simplymadereadme.com/)
 
 
 
