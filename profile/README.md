@@ -15,7 +15,7 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
     - [Boxicons: Premium web friendly icons for free](https://boxicons.com/?query=home)
 
 - Herramientas:
-    - [Responsively.app: helps you test your sites for multiple devices](https://responsively.app/)
+    - [Responsively.app: Ayuda a probar sus sitios para múltiples dispositivos](https://responsively.app/)
 
 ### Generadores de Readme's:
 
