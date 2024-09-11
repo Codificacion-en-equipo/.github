@@ -5,6 +5,9 @@
 
 Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudiar y eventualmente trabajar juntos en los proyectos que vayamos consiguiendo.
 
+## Configuraciones varias
+- [Configurar Eslint + Standard en VSCode](https://www.youtube.com/watch?v=ORUFii_Qsyg)
+- [EditorConfig: define la configuración de estilo de tu proyecto](https://www.youtube.com/watch?v=ORUFii_Qsyg)
 
 ## Recursos
 
@@ -17,12 +20,25 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 - Herramientas:
     - [Responsively.app: Ayuda a probar sus sitios para múltiples dispositivos](https://responsively.app/)
 
+### Backend
+
+- API's
+    - [REST API Generator](https://retool.com/api-generator)
+
+
 ### Generadores de Readme's:
 
- - [Readme.so: Generador online de Readme's](https://readme.so/es)
- - [Simply Made Readme](https://simplymadereadme.com/)
+- [Readme.so: Generador online de Readme's](https://readme.so/es)
+- [Simply Made Readme](https://simplymadereadme.com/)
+
+### Capacitación:
+
+- [Synapse Tutor - IA que enseña programación gratis](https://synapsetutor.com/)
+- [Preguntas típicas de React.js](https://www.reactjs.wiki/)
+- [Pruebas Técnicas de Programación](https://pruebastecnicas.com/)
 
 
+---
 
 ## Roadmap 🧭
 
