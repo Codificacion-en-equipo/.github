@@ -35,8 +35,11 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 ### Capacitación:
 
 - [Synapse Tutor - IA que enseña programación gratis](https://synapsetutor.com/)
-- [Preguntas típicas de React.js](https://www.reactjs.wiki/)
 - [Pruebas Técnicas de Programación](https://pruebastecnicas.com/)
+- Frontend:
+    - [Preguntas típicas de React.js](https://www.reactjs.wiki/)
+    - [Aprende los principales React Design Patterns o Patrones Avanzados en React.js.](https://www.youtube.com/watch?v=_cilPGp_hRE)
+
 
 
 ---
