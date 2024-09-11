@@ -19,6 +19,7 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 
 - Herramientas:
     - [Responsively.app: Ayuda a probar sus sitios para múltiples dispositivos](https://responsively.app/)
+    - [Simulador móvil: herramienta de prueba responsiva (Extensión de Chrome)](https://chromewebstore.google.com/detail/simulador-m%C3%B3vil-herramien/ckejmhbmlajgoklhgbapkiccekfoccmk?hl=es)
 
 ### Backend
 
