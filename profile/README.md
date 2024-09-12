@@ -34,6 +34,8 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 
 ### Capacitación:
 
+- ⭐ [Productivity as a Developer – Full Course
+](https://www.youtube.com/watch?v=C_jQahOnGUU)
 - [Synapse Tutor - IA que enseña programación gratis](https://synapsetutor.com/)
 - [Pruebas Técnicas de Programación](https://pruebastecnicas.com/)
 - Frontend:
