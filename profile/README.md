@@ -43,7 +43,7 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 - Frontend:
     - [Preguntas típicas de React.js](https://www.reactjs.wiki/)
     - [Aprende los principales React Design Patterns o Patrones Avanzados en React.js.](https://www.youtube.com/watch?v=_cilPGp_hRE)
-
+    - [CodePip - Juegos gratuitos para aprender Flexbox y Grid (filtrar por juegos "Free")](https://codepip.com/games/)
 
 
 ---
