@@ -13,9 +13,10 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 
 ### Frontend
 
-- Íconos:
-    - [Iconos vectoriales y stickers: PNG, SVG, EPS, PSD y CSS](https://www.flaticon.es/)
+- Íconos e imágenes gratis:
+    - [Iconos vectoriales y stickers: Flaticon.es PNG, SVG, EPS, PSD y CSS](https://www.flaticon.es/)
     - [Boxicons: Premium web friendly icons for free](https://boxicons.com/?query=home)
+    - [Pexels: Las mejores fotos de stock gratis](https://www.pexels.com/es-es/)
 
 - Herramientas:
     - [Responsively.app: Ayuda a probar sus sitios para múltiples dispositivos](https://responsively.app/)
@@ -25,6 +26,7 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
 
 - API's
     - [REST API Generator](https://retool.com/api-generator)
+    - [{JSON} Placeholder: Free fake API (posts, comments, albums, photos, todos, users)](https://jsonplaceholder.typicode.com/)
 
 
 ### Generadores de Readme's:
