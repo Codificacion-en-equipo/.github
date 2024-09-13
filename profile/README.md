@@ -6,7 +6,8 @@
 Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudiar y eventualmente trabajar juntos en los proyectos que vayamos consiguiendo.
 
 ## Configuraciones varias
-- [Configurar Eslint + Standard en VSCode](https://www.youtube.com/watch?v=ORUFii_Qsyg)
+
+- [Configurar Eslint + Standard en VSCode](https://www.youtube.com/watch?v=QpDpRmlFfqI)
 - [EditorConfig: define la configuración de estilo de tu proyecto](https://www.youtube.com/watch?v=ORUFii_Qsyg)
 
 ## Recursos
