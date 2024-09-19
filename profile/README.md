@@ -24,7 +24,8 @@ Grupo de estudio (y potencialmente de trabajo) creado con el objetivo de estudia
     - [Simulador móvil: herramienta de prueba responsiva (Extensión de Chrome)](https://chromewebstore.google.com/detail/simulador-m%C3%B3vil-herramien/ckejmhbmlajgoklhgbapkiccekfoccmk?hl=es)
 
 ### Backend
-
+- Bases de datos
+    - [Postgre Sandbox - Diseñador online de bases de datos gratuito](https://postgres.new)
 - API's
     - [REST API Generator](https://retool.com/api-generator)
     - [{JSON} Placeholder: Free fake API (posts, comments, albums, photos, todos, users)](https://jsonplaceholder.typicode.com/)
